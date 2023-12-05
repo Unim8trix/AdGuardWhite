@@ -1,0 +1,24 @@
+# Apple
+@@|albert.apple.com^$important
+@@|api-glb.smoot.apple.com^$important
+@@|appldnld.apple.com^$important
+@@|appleid.apple.com^$important
+@@|ax.init.itunes.apple.com^$important
+@@|ax.itunes.apple.com^$important
+@@|ax.itunes.apple.com^$important
+@@|itunes.apple.com^$important
+@@|caldav.fe.apple-dns.net^$important
+@@|caldav.icloud.com^$important
+@@|calendars.fe.apple-dns.net^$important
+@@|configuration.apple.com.akadns.net^$important
+@@|developer.apple.com^$important
+@@|discussions.apple.com^$important
+@@|gs.apple.com^$important
+@@|itunesconnect.apple.com^$important
+@@|m.store.apple.com^$important
+@@|store.apple.com^$important
+@@|support.apple.com^$important
+@@|api-glb.smoot.apple.com^$important
+@@|appleid.apple.com^$important
+# msg AG
+@@|msg.ag
