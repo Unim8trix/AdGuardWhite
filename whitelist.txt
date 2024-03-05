@@ -22,3 +22,5 @@
 @@|appleid.apple.com^$important
 # msg AG
 @@|msg.ag
+# Div
+@@|www.vinstartheme.com
